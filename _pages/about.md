@@ -7,21 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=385ED2&vCenter=true&width=435&lines=Machine+learning;Data+Science+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=2000&color=385ED2&width=435&lines=Social+Sciences+)](https://git.io/typing-svg)
 
 
 ## About Me
 
-Having graduated from the University of Hong Kong with a Master's degree in Library and Information Management, I have a strong passion for research in machine learning and data science. Under the supervision of Dr. Dickson K.W. Chiu and Dr. Samuel Ping-Man Choi, I specialised in Natural Language Processing and large language models. I also earned a Bachelor’s degree in e-Business Management and Information Systems from Hong Kong Baptist University.  
+Having graduated from the University of Hong Kong with a Master's degree in Library and Information Management, I have a strong passion for research in interdisciplinary applications of data science in social sciences. Under the supervision of Dr. Dickson K.W. Chiu and Dr. Samuel Ping-Man Choi, I specialised in sociology. I also earned a Bachelor’s degree in e-Business Management and Information Systems from Hong Kong Baptist University.  
 
 
 ## Research Interests
 
--   Machine Learning 
--   Data Science 
+-   Social Sciences 
+-   Sociology
 -   Interdisciplinary Applications of Data Science in Digital Humanities
--   Large Language Models 
--   Information Management 
+-   Data Science 
 
 
 ## Education
