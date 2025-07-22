@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 
-Having graduated from the University of Hong Kong with a Master's degree in Library and Information Management, I have a strong passion for research in interdisciplinary applications of data science in social sciences. Under the supervision of Dr. Dickson K.W. Chiu and Dr. Samuel Ping-Man Choi, I specialised in sociology. I also earned a Bachelor’s degree in e-Business Management and Information Systems from Hong Kong Baptist University.  
+Having graduated from the University of Hong Kong with a Master's degree in Library and Information Management, I have a strong passion for research in interdisciplinary applications of data science in social sciences. Under the supervision of Dr. Dickson K.W. Chiu and Dr. Samuel Ping-Man Choi, I became passionate about sociology. I also earned a Bachelor’s degree in e-Business Management and Information Systems from Hong Kong Baptist University.  
 
 
 ## Research Interests
@@ -33,7 +33,7 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
     |--|
     | Data Science and Learning Analytics |
     |Information Behaviour|
-    |Information System Analysis and Development|
+    |Leading and managing in the workplace|
     
     
 -   **Bachelor of Business Administration (Hons.)**  
@@ -44,8 +44,9 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
     | Modules|
     |--|
     | Programming for Business Applications |
-    |Database Management|
-    |Business Systems Design and Analysis|
+    |Language, Media and Culture|
+    |Developing Applications for Mobile and Social Media|
+    |Electronic Commerce|
 
 
 ## Study Tour 
