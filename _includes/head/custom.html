@@ -36,20 +36,16 @@
 </style>
 
 <style>
-  /* Publications 页面论文标题链接：去掉下划线，加悬停效果 */
+  /* Publications 论文标题链接：去掉下划线 */
   .archive__item-title a {
     text-decoration: none;
     color: #0EA5E9;
-    background-image: linear-gradient(currentColor, currentColor);
-    background-position: 0% 100%;
-    background-repeat: no-repeat;
-    background-size: 0% 2px;
-    transition: background-size 0.3s ease, color 0.2s ease;
+    transition: color 0.2s ease;
   }
 
   .archive__item-title a:hover {
-    background-size: 100% 2px;   /* 悬停时出现从左到右的下划线 */
-    color: #0284C7;
+    text-decoration: none;
+    color: #0284C7;   /* 悬停只改变颜色，不加下划线 */
   }
 </style>
 
