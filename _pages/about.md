@@ -9,7 +9,6 @@ redirect_from:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=2000&color=385ED2&width=435&lines=Social+Sciences+)]
 
----(https://git.io/typing-svg)---
 
 ## About Me
 
