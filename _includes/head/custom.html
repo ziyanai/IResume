@@ -20,7 +20,7 @@
 
 <style>
   .author__bio {
-    color: #6366F1;
+    color: #1d44eb;
     font-family: "Shadows Into Light", cursive;   /* 手写风格，随性有个性 */
     font-size: 1.25em;                /* 手写字体建议稍大一点 */
     font-weight: 600;
@@ -32,6 +32,24 @@
   /* 只在白天模式把定位图标改成橙色 */
   html:not([data-theme="dark"]) .fa-location-dot {
     color: #F97316;   /* 橙色，可按喜好调整 */
+  }
+</style>
+
+<style>
+  /* 正文链接：去掉下划线，改成更酷的效果 */
+  .page__content a {
+    text-decoration: none;
+    color: #0EA5E9;                    /* 链接颜色 */
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;           /* 默认没有下划线 */
+    transition: background-size 0.3s ease, color 0.2s ease;
+  }
+
+  .page__content a:hover {
+    background-size: 100% 2px;         /* 悬停时从左到右出现下划线 */
+    color: #0284C7;                    /* 悬停颜色稍深 */
   }
 </style>
 
