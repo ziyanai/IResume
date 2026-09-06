@@ -36,20 +36,20 @@
 </style>
 
 <style>
-  /* 正文链接：去掉下划线，改成更酷的效果 */
-  .page__content a {
+  /* Publications 页面论文标题链接：去掉下划线，加悬停效果 */
+  .archive__item-title a {
     text-decoration: none;
-    color: #0EA5E9;                    /* 链接颜色 */
+    color: #0EA5E9;
     background-image: linear-gradient(currentColor, currentColor);
     background-position: 0% 100%;
     background-repeat: no-repeat;
-    background-size: 0% 2px;           /* 默认没有下划线 */
+    background-size: 0% 2px;
     transition: background-size 0.3s ease, color 0.2s ease;
   }
 
-  .page__content a:hover {
-    background-size: 100% 2px;         /* 悬停时从左到右出现下划线 */
-    color: #0284C7;                    /* 悬停颜色稍深 */
+  .archive__item-title a:hover {
+    background-size: 100% 2px;   /* 悬停时出现从左到右的下划线 */
+    color: #0284C7;
   }
 </style>
 
