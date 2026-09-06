@@ -35,29 +35,21 @@
 </style>
 
 <style>
-  /* 更强力去除下划线 */
-  .archive a,
-  .archive .archive__item-title a,
-  .archive__item-title a,
-  .list__item a,
-  h2.archive__item-title a {
+  /* 去掉论文标题的下划线，悬停只让链接变色 */
+  .archive__item-title,
+  .archive__item:hover .archive__item-title {
+    text-decoration: none !important;
+  }
+
+  .archive__item-title a {
     text-decoration: none !important;
     border-bottom: none !important;
-    box-shadow: none !important;
-    background-image: none !important;
     color: #0EA5E9 !important;
     transition: color 0.2s ease;
   }
 
-  .archive a:hover,
-  .archive .archive__item-title a:hover,
-  .archive__item-title a:hover,
-  .list__item a:hover,
-  h2.archive__item-title a:hover {
+  .archive__item-title a:hover {
     text-decoration: none !important;
-    border-bottom: none !important;
-    box-shadow: none !important;
-    background-image: none !important;
     color: #0369A1 !important;
   }
 </style>
