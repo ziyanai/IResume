@@ -8,7 +8,7 @@ date: 2024-05-22
 PP: 'Published in '
 venue: 'Journal on Computing and Cultural Heritage' 
 slidesurl: # 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://ziyanai.github.io/IResume/files/dunhuang.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3653307'
 citation: 'Ai, Z., Chiu, D. K., & Ho, K. K. (2024). Social media analytics of user evaluation for innovative digital cultural and creative products: Experiences regarding dunhuang cultural heritage.<i> ACM Journal on Computing and Cultural Heritage</i>, <i> 17(3)</i>. 1-25.'
 
 ---
