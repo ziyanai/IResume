@@ -21,10 +21,17 @@
 <style>
   .author__bio {
     color: #6366F1;
-    font-family: "Patrick Hand", cursive;   /* 手写风格，随性有个性 */
+    font-family: "Shadows Into Light", cursive;   /* 手写风格，随性有个性 */
     font-size: 1.25em;                /* 手写字体建议稍大一点 */
     font-weight: 600;
     line-height: 1.4;
+  }
+</style>
+
+<style>
+  /* 只在白天模式把定位图标改成橙色 */
+  html:not([data-theme="dark"]) .fa-location-dot {
+    color: #F97316;   /* 橙色，可按喜好调整 */
   }
 </style>
 
